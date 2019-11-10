@@ -1,5 +1,3 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
-
 T = int(input())
 if T < 1 and T > 10:
     exit()
