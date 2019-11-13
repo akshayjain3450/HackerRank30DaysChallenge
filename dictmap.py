@@ -1,3 +1,4 @@
+#Used Dictionary
 N = int(input())
 d = dict()
 count = 0
